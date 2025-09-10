@@ -1,32 +1,59 @@
+/* Color Theme Swatches in Hex */
+.Cinderella-from-Nam-1-hex { color: #425957; }
+.Cinderella-from-Nam-2-hex { color: #81AC8B; }
+.Cinderella-from-Nam-3-hex { color: #F2E5A2; }
+.Cinderella-from-Nam-4-hex { color: #F89883; }
+.Cinderella-from-Nam-5-hex { color: #D96666; }
+
+ul {
+	list-style-position: center;
+	list-style-type: none;
+	padding:0;
+	border-width:5px;
+	background-color:#81AC8B;
+	color:#425957;
+}
 p {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 300;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+    color:#425957;
+    text-align:center;
 }
 h1 {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 800;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+    color:#F2E5A2;
+    text-align:center;
 }
 h2 {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 600;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+    color:#F2E5A2;
+    text-align:center;
 }
 h3 {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 600;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+    color:#F2E5A2;
+    text-align:center;
+}
+ 
+body {
+	background-color:#425957;}
 }
