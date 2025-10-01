@@ -5,6 +5,11 @@
 .Cinderella-from-Nam-4-hex { color: #F89883; }
 .Cinderella-from-Nam-5-hex { color: #D96666; }
 
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
 ul {
 	list-style-position: center;
 	list-style-type: none;
